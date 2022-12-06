@@ -2,7 +2,7 @@
 I use java to confess to someone serious
 
 # Sucess Rate
-Initially it was zero percent, but with some creativity it became 100%
+Initially it was zero percent, but with some creativity it became 100% (requires 100% luck)
 
 # Development hours
 Since i was in a time constraint, i do not have much time therefore it is 
